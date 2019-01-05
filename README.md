@@ -5,4 +5,8 @@ This is an attempt to create an exact vector clone of Atari's Lunar Lander while
 [![Lunar Lander](http://img.youtube.com/vi/McAhSoAEbhM/0.jpg)](https://www.youtube.com/watch?v=McAhSoAEbhM)
 
 ## Credits
-Created by Francisco Sanchez Arroyo
+- Created by Francisco Sanchez Arroyo
+- Part of this code was sourced from the Asteroids videogame by Nick Redshaw
+
+## Other cool projects
+http://moonlander.seb.ly/
